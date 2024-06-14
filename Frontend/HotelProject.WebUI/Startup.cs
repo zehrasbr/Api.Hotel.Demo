@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HotelProject.DataAccessLayer.Concrete;
 
 namespace HotelProject.WebUI
 {
@@ -26,8 +27,8 @@ namespace HotelProject.WebUI
         {
             services.AddDbContext<Context>();
             services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
-            services.AddControllersWithViews();
             services.AddHttpClient();
+            services.AddControllersWithViews();
             services.AddAutoMapper(typeof(Startup));
         }
 
