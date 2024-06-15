@@ -1,6 +1,12 @@
-﻿namespace HotelProject.WebUI.ViewComponents.Default
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace HotelProject.WebUI.ViewComponents.Default
 {
-    public class _SpinnerPartial
+    public class _SpinnerPartial : ViewComponent
     {
+        public IViewComponentResult Invoke()
+        {
+            return View();
+        }
     }
 }
