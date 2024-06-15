@@ -32,18 +32,15 @@
     <Folder Include="ViewComponents\Booking\" />
     <Folder Include="ViewComponents\Contact\" />
     <Folder Include="ViewComponents\Dashboard\" />
+    <Folder Include="Views\Shared\Components\_BookingCoverPartial\" />
     <Folder Include="Views\Shared\Components\_TrailerPartial\" />
     <Folder Include="Views\Shared\Components\_TestimonialPartial\" />
     <Folder Include="Views\Shared\Components\_TeamPartial\" />
     <Folder Include="Views\Shared\Components\_SubscribePartial\" />
-    <Folder Include="Views\Shared\Components\_SpinnerPartial\" />
-    <Folder Include="Views\Shared\Components\_SliderPartial\" />
     <Folder Include="Views\Shared\Components\_ServicePartial\" />
     <Folder Include="Views\Shared\Components\_ScriptsPartial\" />
     <Folder Include="Views\Shared\Components\_ReservationPartial\" />
     <Folder Include="Views\Shared\Components\_OurRoomsPartial\" />
-    <Folder Include="Views\Shared\Components\_NavbarPartial\" />
-    <Folder Include="Views\Shared\Components\_HeadPartial\" />
     <Folder Include="Views\Shared\Components\_DashboardWidgetPartial\" />
     <Folder Include="Views\Shared\Components\_DashboardSubscribeCountPartial\" />
     <Folder Include="Views\Shared\Components\_DashboardScriptPartial\" />
@@ -51,9 +48,7 @@
     <Folder Include="Views\Shared\Components\_DashboardLast4StaffList\" />
     <Folder Include="Views\Shared\Components\_DashboardHeadPartial\" />
     <Folder Include="Views\Shared\Components\_ContactCoverPartial\" />
-    <Folder Include="Views\Shared\Components\_BookingCoverPartial\" />
     <Folder Include="Views\Shared\Components\_FooterPartial\" />
-    <Folder Include="Views\Shared\Components\_AboutUsPartial\" />
   </ItemGroup>
 
 </Project>
