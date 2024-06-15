@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using HotelProject.DataAccessLayer.Concrete;
+//using HotelProject.DataAccessLayer.Concrete;
 
 namespace HotelProject.WebUI
 {
@@ -25,8 +25,8 @@ namespace HotelProject.WebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<Context>();
-            services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
+            //services.AddDbContext<Context>();
+            //services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
             services.AddHttpClient();
             services.AddControllersWithViews();
             services.AddAutoMapper(typeof(Startup));

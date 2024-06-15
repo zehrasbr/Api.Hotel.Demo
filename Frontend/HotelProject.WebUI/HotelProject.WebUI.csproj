@@ -28,4 +28,10 @@
     <ProjectReference Include="..\..\ApiConsume\HotelProject.EntityLayer\HotelProject.EntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ViewComponents\Booking\" />
+    <Folder Include="ViewComponents\Contact\" />
+    <Folder Include="ViewComponents\Dashboard\" />
+  </ItemGroup>
+
 </Project>
