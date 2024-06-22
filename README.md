@@ -1,7 +1,9 @@
+SWAGGER 
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/442c6995-9a67-47b5-8527-b2d91eec0fa7)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/077e44c7-57df-4ca5-875b-5f61e7ea32c4)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/3178ed1a-4eb5-4cfd-a855-dc450dac7439)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/fd4e332d-9f4a-40f3-b418-99f74d17f17e)
+WEBSITE
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/7a81b29f-5363-4c0c-af63-a2a7bf9cfd6a)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/36feaf4b-799a-4b00-91c9-bbb6b2052a80)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/c0c7e4f7-61de-4e7f-bb2c-6ff64719d0c6)
@@ -11,3 +13,7 @@
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/bb92d680-6260-4ad1-8d7f-067478b8fcdd)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/2a6ca903-dc9c-4c3b-817f-f79422d8d7fe)
 ![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/2d14e607-cff0-475b-9672-9bc2bffd72cc)
+ADMIN PANEL
+![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/09dcc9bd-eb57-4534-bb67-740eadaa6764)
+![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/7f9abd4c-dbdc-48d6-ab36-52cce783a24a)
+![image](https://github.com/zehrasbr/Api.Hotel.Demo/assets/120209419/d58e0d83-47d4-4f60-a374-651e19d14492)
