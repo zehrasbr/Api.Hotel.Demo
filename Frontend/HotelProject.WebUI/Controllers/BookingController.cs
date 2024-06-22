@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using HotelProject.WebUI.Dtos.BookingDto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Net.Http;
@@ -31,7 +32,7 @@ namespace HotelProject.WebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(createBookingDto);
             StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
-            await client.PostAsync("http://localhost:3523/api/Booking", stringContent);
+            await client.PostAsync("http://localhost:46246/api/Booking", stringContent);
             return RedirectToAction("Index", "Default");
         }
     }
