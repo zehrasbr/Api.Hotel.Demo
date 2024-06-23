@@ -39,6 +39,9 @@ namespace HotelProject.WebUI.Mapping
 
                 CreateMap<CreateBookingDto, Booking>().ReverseMap();
                 CreateMap<ApprovedReservationDto, Booking>().ReverseMap();
+                CreateMap<ResultBookingDto, Booking>().ReverseMap();
+                CreateMap<ResultLast6BookingDto, Booking>().ReverseMap();
+                CreateMap<UpdateBookingDto, Booking>().ReverseMap();
         }
     }
 }
