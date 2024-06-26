@@ -4,6 +4,8 @@ using System;
 using System.Net.Http.Headers;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using RapidApiConsume.Models;
+using Newtonsoft.Json;
 
 namespace RapidApiConsume.Controllers
 {
