@@ -27,6 +27,7 @@ namespace WebApiJwt.Models
             var bytes = Encoding.UTF8.GetBytes("aspnetcoreapiapi");
             SymmetricSecurityKey key = new SymmetricSecurityKey(bytes);
             SigningCredentials credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+            //claim rollerin içeriğini tutacak
             List<Claim> claims = new List<Claim>()
             {
                 new Claim(ClaimTypes.NameIdentifier,Guid.NewGuid().ToString()),
